@@ -9,7 +9,7 @@ function App() {
      <>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={null} />
+          <Route path="/" element={<>SEMMI</>} />
         </Routes>
       </BrowserRouter>
      </>
